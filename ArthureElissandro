@@ -1,0 +1,13 @@
+Arthur e Elissandro AlugueUmaVaga
+
+		Componetes:
+
+ArrayList: Foi usado para criar um array de vagas e pessoas;
+Poliformismo:Sobrecarga: Método aluga, criando 2 opções diferentes para alugar um bem;
+Sobreposição: alterar o toString() na vaga;
+Classe abstrata: Classe BemAlugavel;
+Encapsulamento: todos os atributos são private;
+Herança: BemAlugavel > Vaga;
+Construtores: Vaga e Pessoa;
+
+
